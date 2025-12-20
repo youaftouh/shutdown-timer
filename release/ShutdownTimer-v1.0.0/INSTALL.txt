@@ -1,0 +1,25 @@
+INSTALLATION INSTRUCTIONS
+========================
+
+OPTION 1 - Easy Installation (Recommended):
+1. Double-click "ShutdownTimer-v1.0.dmg"
+2. Drag "ShutdownTimer.app" to the "Applications" folder
+3. Launch from Applications folder
+
+OPTION 2 - Manual Installation:
+1. Copy "ShutdownTimer.app" to your Applications folder
+2. Launch the app
+
+FIRST RUN:
+- macOS will ask for permission to control System Events
+- This is required for shutdown/restart/logout functionality
+- Grant permission in: System Settings → Privacy & Security → Automation
+
+SYSTEM REQUIREMENTS:
+- macOS 13.0 (Ventura) or later
+- Intel or Apple Silicon Mac
+
+SUPPORT:
+If you have issues, check the README.md file for troubleshooting.
+
+Enjoy your Shutdown Timer!

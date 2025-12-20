@@ -1,0 +1,10 @@
+BUILD INSTRUCTIONS
+==================
+
+To build from source:
+
+1. Ensure you have Xcode installed
+2. Run: swiftc -o ShutdownTimer ShutdownTimer.swift -framework SwiftUI -framework AppKit
+3. Run: ./create_dmg.sh to create distribution package
+
+Or open in Xcode and build as a standard macOS app project.

@@ -1,0 +1,2 @@
+b23ca655f87a5379d8f7ebcac00b906dea563440a7885d7b58029cf7ad1c61a4  ShutdownTimer.dmg
+b0747369e92508a26702eb88ccd7a9659d7de049cea982ddcbf9a1df88b591a3  ShutdownTimer.app/Contents/MacOS/ShutdownTimer
