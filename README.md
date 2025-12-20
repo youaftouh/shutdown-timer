@@ -45,7 +45,9 @@ The first time you use the app, macOS will request permission to control System 
 
 ## Screenshots
 
-*Add screenshots here when uploading to SourceForge*
+![Screenshot of ShutdownTimer App](https://github.com/youaftouh/shutdown-timer/blob/main/screenshots/Screenshot-app.png?raw=true)
+
+![Screenshot of ShutdownTimer About](https://github.com/youaftouh/shutdown-timer/blob/main/screenshots/Screenshot-about.png?raw=true)
 
 ## System Requirements
 
